@@ -3,43 +3,33 @@
         "artist": "Foo fighters",
         "album": "the colur and the shape",
         "explicit": true,
-        "lenght": "4:10",
-        "playing": false,
-        "pause": false
+        "lenght": "4:10"
 },
 {
         "title": "Breaking the habit",
         "artist": "Linking park",
         "album": "Meteora",
         "explicit": false,
-        "lenght": "3:16",
-        "playing": false,
-        "pause": false
+        "lenght": "3:16"
 },
 {
         "title": "Breaking the habit",
         "artist": "Linking park",
         "album": "Meteora",
         "explicit": false,
-        "lenght": "3:16",
-        "playing": false,
-        "pause": false
+        "lenght": "3:16"
 },
 {
         "title": "Breaking the habit",
         "artist": "Linking park",
         "album": "Meteora",
         "explicit": false,
-        "lenght": "3:16",
-        "playing": false,
-        "pause": false
+        "lenght": "3:16"
 },
 {
         "title": "Breaking the habit",
         "artist": "Linking park",
         "album": "Meteora",
         "explicit": false,
-        "lenght": "3:16",
-        "playing": false,
-        "pause": false
+        "lenght": "3:16"
 }]

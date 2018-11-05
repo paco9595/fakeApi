@@ -2,5 +2,6 @@
     "name": "your time capsule",
     "numberSongs": 51,
     "isFav": false,
-    "imgUrl": "./cover.jpg"
+    "imgUrl": "./cover.jpg",
+    "id": 111
 }

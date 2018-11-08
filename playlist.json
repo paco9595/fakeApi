@@ -4,7 +4,8 @@
         "album": "the colur and the shape",
         "explicit": true,
         "lenght": "4:10",
-        "id": 1
+        "id": 1,
+        "isPlaying": false
 },
 {
         "title": "Breaking the habit",
@@ -12,7 +13,8 @@
         "album": "Meteora",
         "explicit": false,
         "lenght": "3:16",
-        "id": 2
+        "id": 2,
+        "isPlaying": false
 },
 {
         "title": "Breaking the habit",
@@ -20,7 +22,8 @@
         "album": "Meteora",
         "explicit": false,
         "lenght": "3:16",
-        "id": 3
+        "id": 3,
+        "isPlaying": false
 },
 {
         "title": "Breaking the habit",
@@ -28,7 +31,8 @@
         "album": "Meteora",
         "explicit": false,
         "lenght": "3:16",
-        "id": 4
+        "id": 4,
+        "isPlaying": false
 },
 {
         "title": "Breaking the habit",
@@ -36,5 +40,6 @@
         "album": "Meteora",
         "explicit": false,
         "lenght": "3:16",
-        "id": 5
+        "id": 5,
+        "isPlaying": false
 }]

@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "pregunta": "cual es el nombre completo de homero",
-    "respuestas": [
+    "opciones": [
         "jaun homero perez",
         "Homero jay perez",
         "Homero jay  Simpom",
